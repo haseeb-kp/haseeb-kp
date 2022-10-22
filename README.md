@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+i+am+haseeb:\);I+am+a+web+developer;and+machine+learning+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+i+am+haseeb:\);I+am+a+web+developer+and+machine+learning+enthusiast)](https://git.io/typing-svg)
 
 
  <h2>Skills</h2>
