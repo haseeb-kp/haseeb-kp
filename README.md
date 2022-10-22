@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**haseeb-kp/haseeb-kp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,+i+am+haseeb:\);I+am+a+web+developer;and+machine+learning+enthusiast)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <h2>Skills</h2>
+
+ [![My Skills](https://skillicons.dev/icons?i=python,django,html,css,mysql,git,github,linux,bootstrap,figma,vscode)](https://skillicons.dev)
+ 
+ <h2>Get in touch</h2>
+ 
+ [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseebkph)
+
+<br>
+<br>
+
+ [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
