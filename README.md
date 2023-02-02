@@ -1,6 +1,4 @@
 
-
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Haseeb :)</h1>
 <br>
 
@@ -11,7 +9,7 @@
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> <small>Languages and Tools:</small>
 
 
- [![My Skills](https://skillicons.dev/icons?i=python,django,html,css,mysql,git,github,linux,bootstrap,figma,vscode)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,django,react,html,css,mysql,git,github,linux,bootstrap,figma,vscode,mongo)](https://skillicons.dev)
 
  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
@@ -42,15 +40,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <!-- <summary><b>⚡ Recent GitHub Activity</b></summary>
   
    <a href="https://github.com/haseeb-kp"><img alt="haseeb-kp's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=haseeb-kp&custom_title=haseeb-kp's%20Contribution%20Graph&theme=react-dark" /></a>
    
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
 
-### Here is a random meme for you, to make your day better
+<!-- ### Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
 
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+<a href="https://github.com/techytushar/random-memer"><img src='https://meme-api-com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a> -->
 
